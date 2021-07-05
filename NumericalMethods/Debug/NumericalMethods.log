@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\newton.h(48): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\main.cpp(83): note: see reference to function template instantiation 'polynomial<double> getNewtonPolynomial<double>(bool,diff_tbl<double> &)' being compiled
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\newton.h(69): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\stirling.h(72): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\main.cpp(93): note: see reference to function template instantiation 'polynomial<double> getStirlingPolynomial<double>(diff_tbl<double> &)' being compiled
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\stirling.h(94): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\newtondiv.h(32): warning C4018: '<': signed/unsigned mismatch
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\main.cpp(106): note: see reference to function template instantiation 'polynomial<double> getNewtonDivPolynomial<double>(diff_tbl<double> &)' being compiled
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\newtondiv.h(44): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\newtondiv.h(60): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\differencetable.h(34): warning C4018: '<': signed/unsigned mismatch
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\differencetable.h(20): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,diff_tbl<double>)'
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\main.cpp(54): note: see reference to class template instantiation 'diff_tbl<double>' being compiled
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\differencetable.h(89): warning C4018: '<': signed/unsigned mismatch
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\differencetable.h(80): note: while compiling class template member function 'void diff_tbl<double>::populate(bool)'
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\newton.h(20): note: see reference to function template instantiation 'void diff_tbl<double>::populate(bool)' being compiled
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\differencetable.h(52): note: while compiling class template member function 'diff_tbl<double>::diff_tbl(std::vector<double,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\main.cpp(54): note: see reference to function template instantiation 'diff_tbl<double>::diff_tbl(std::vector<double,std::allocator<_Ty>>,std::vector<_Ty,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\stirling.h(22): warning C4018: '<': signed/unsigned mismatch
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\stirling.h(32): note: see reference to function template instantiation 'void makeDiffTableHaveEvenN<double>(diff_tbl<double> &)' being compiled
+  c:\users\alvynez\desktop\school\4th year\2nd sem\numerical methods\numericalmethods\numericalmethods\main.cpp(93): note: see reference to function template instantiation 'polynomial<double> getStirlingPolynomial<double>(diff_tbl<double> &)' being compiled
+  NumericalMethods.vcxproj -> C:\Users\AlvyneZ\Desktop\school\4th year\2nd Sem\Numerical Methods\NumericalMethods\Debug\NumericalMethods.exe
